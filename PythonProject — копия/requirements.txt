@@ -1,0 +1,16 @@
+# Django и админка
+django==5.0.6
+django-import-export==4.0.0  # Более новая версия для Django 5
+django-rangefilter==0.12.0   # Последняя версия для Django 5
+psycopg2-binary==2.9.9
+pillow==10.2.0
+
+# Telegram бот
+aiogram==3.3.0
+
+# База данных
+sqlalchemy==2.0.27
+asyncpg==0.29.0
+
+# Утилиты
+python-dotenv==1.0.0
